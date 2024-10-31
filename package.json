@@ -1,0 +1,27 @@
+{
+  "name": "tiktok-clone-nft",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "framer-motion": "^10.12.8",
+    "ipfs-http-client": "^60.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-parallax-tilt": "^1.7.250",
+    "react-router-dom": "^6.11.1",
+    "react-three-fiber": "^6.0.13",
+    "styled-components": "^5.3.10",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.5"
+  }
+}
